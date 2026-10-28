@@ -22,7 +22,7 @@ The model uses trip distance as the independent variable to predict the fare as 
 - Python
 - Pandas
 - Scikit-learn
-- Jupyter Notebook
+- matplotlib
 
 ## Methodology
 
@@ -64,10 +64,3 @@ The intercept represents the model's predicted fare when the trip distance is ze
 These results indicate a strong linear relationship between trip distance and fare in this dataset. However, the model uses only one feature, so it does not account for other factors that may influence taxi fares.
 
 
-
-
-
-
-
-regression.ipynb
-└── README.
